@@ -13,7 +13,7 @@ TaskTuner is an **AI-driven smart routine planner** that creates **personalized 
 - **Frontend**: React.js, Tailwind CSS  
 - **Backend**: Node.js, Express.js  
 - **Database**: MongoDB  
-- **AI Model**: OpenAI GPT-4 (for routine generation)  
+- **AI Model**: Gemini (for routine generation)  
 - **APIs**: Google Calendar API (for scheduling & notifications)  
 
 ## 💡 Use Cases
@@ -21,7 +21,4 @@ TaskTuner is an **AI-driven smart routine planner** that creates **personalized 
 - 👩‍💻 **Professionals** – Balance work & personal time efficiently.  
 - 🧘 **Health-Conscious Users** – Improve **mental & physical well-being** with structured routines.  
 
-## 📂 Setup & Installation
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/yourusername/TaskTuner.git
+
